@@ -1,4 +1,4 @@
-# E-commerce Avançado
+# E-commerce basico
 
 Um e-commerce completo construído com React, Node.js e MongoDB.
 
